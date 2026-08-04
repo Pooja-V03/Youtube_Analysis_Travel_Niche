@@ -11,5 +11,3 @@ An end-to-end data pipeline and exploratory data analysis on the Indian travel-v
 - How does channel size (Large/Mid/Small tier) interact with all of the above?
 
 Every question is answered with a code cell + statistical test (ANOVA, Pearson/Spearman correlation, t-tests) followed by a written conclusion — not just charts.
-
-## 🗂️ Repo structure
